@@ -16,6 +16,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse projeto consiste em um cronômetro para estudo utilizando o método pomodoro, e nele temos botões para pausar o tempo, ajustar os minutos pelo teclado e aumentar ou diminuir 5 minutos. Ao terminar a contagem estipulada pelo usuário soa um alarme. Já no canto direito do aplicativo temos 4 opções de sons ambientes, caso o usuário ache confortante. 
+Este projeto é um cronômetro de estudo baseado no método Pomodoro, projetado para ajudar na gestão do tempo e aumentar a produtividade. O aplicativo oferece as seguintes funcionalidades:
+
+- Cronômetro Pomodoro: Um temporizador para sessões de estudo focadas.
+- Controles de Tempo: Botões para pausar e retomar o cronômetro.
+- Ajuste de Minutos: Possibilidade de ajustar os minutos diretamente pelo teclado.
+- Incremento e Decremento de Tempo: Botões para aumentar ou diminuir o tempo em incrementos de 5 minutos.
+- Alarme: Um alarme soa quando o tempo estipulado pelo usuário termina.
+- Sons Ambientais: Quatro opções de sons de fundo para tornar o ambiente de estudo mais agradável. Os sons disponíveis são:
+  - Floresta
+  - Chuva
+  - Cafeteria
+  - Lareira
 
 - [Acesse o projeto finalizado, online](https://projeto-focustimer2-0.onrender.com)
