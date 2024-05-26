@@ -18,4 +18,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto consiste em um cronômetro para estudo utilizando o método pomodoro, e nele temos botões para pausar o tempo, ajustar os minutos pelo teclado e aumentar ou diminuir 5 minutos. Ao terminar a contagem estipulada pelo usuário soa um alarme. Já no canto direito do aplicativo temos 4 opções de sons ambientes, caso o usuário ache confortante. 
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://projeto-focustimer2-0.onrender.com)
