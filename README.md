@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="Focus timer 2.0" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
