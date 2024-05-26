@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img alt="Focus timer 2.0" src=".github/preview.jpg.png" width="100%">
+  <img alt="Focus timer 2.0" src="./github/preview.jpg.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
