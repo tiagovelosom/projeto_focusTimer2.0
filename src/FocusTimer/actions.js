@@ -43,11 +43,13 @@ function handleSoundButtonClick(sound) {
 export function plusFive() {
     state.minutes = Math.min(60, state.minutes + 5);
     timer.updateDisplay();
+    sounds.buttonPressAudio.play()
 }
 
 export function minusFive() {
     state.minutes = Math.max(0, state.minutes - 5);  // Ensure minutes don't go negative
     timer.updateDisplay();
+    sounds.buttonPressAudio.play()
 }
 
 export function toggleMusicIconTree() {
