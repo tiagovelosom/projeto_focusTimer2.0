@@ -6,27 +6,27 @@
 🚀 Technologies
 This project was developed with the following technologies:
 
-HTML and CSS
-JavaScript
-Git and Github
-💻 Project
+- HTML and CSS
+- JavaScript
+- Git and Github
+## 💻 Project
 This project is a study timer based on the Pomodoro method, designed to help with time management and increase productivity. The application offers the following features:
 
-Pomodoro Timer: A timer for focused study sessions.
+- Pomodoro Timer: A timer for focused study sessions.
 
-Time Controls: Buttons to pause and resume the timer.
+- Time Controls: Buttons to pause and resume the timer.
 
-Minute Adjustment: Ability to adjust the minutes directly via the keyboard.
+- Minute Adjustment: Ability to adjust the minutes directly via the keyboard.
 
-Time Increment and Decrement: Buttons to increase or decrease the time in 5-minute increments.
+- Time Increment and Decrement: Buttons to increase or decrease the time in 5-minute increments.
 
-Alarm: An alarm sounds when the user-set time ends.
+- Alarm: An alarm sounds when the user-set time ends.
 
-Ambient Sounds: Four background sound options to make the study environment more pleasant. The available sounds are:
+- Ambient Sounds: Four background sound options to make the study environment more pleasant. The available sounds are:
 
-Forest
-Rain
-Coffee Shop
-Fireplace
-Access the finished project online
+  - Forest
+  - Rain
+  - Coffee Shop
+  - Fireplace
+  - Access the finished project online
 
