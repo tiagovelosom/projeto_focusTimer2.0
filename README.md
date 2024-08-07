@@ -1,32 +1,32 @@
 <h1 align="center"> Focus Timer 2.0 </h1>
-
 <br>
-
 <p align="center">
   <img alt="Focus timer 2.0" src="./github/preview.jpg.png" width="100%">
 </p>
+🚀 Technologies
+This project was developed with the following technologies:
 
-## 🚀 Tecnologias
+HTML and CSS
+JavaScript
+Git and Github
+💻 Project
+This project is a study timer based on the Pomodoro method, designed to help with time management and increase productivity. The application offers the following features:
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Pomodoro Timer: A timer for focused study sessions.
 
-- HTML e CSS
-- JavaScript
-- Git e Github
+Time Controls: Buttons to pause and resume the timer.
 
-## 💻 Projeto
+Minute Adjustment: Ability to adjust the minutes directly via the keyboard.
 
-Este projeto é um cronômetro de estudo baseado no método Pomodoro, projetado para ajudar na gestão do tempo e aumentar a produtividade. O aplicativo oferece as seguintes funcionalidades:
+Time Increment and Decrement: Buttons to increase or decrease the time in 5-minute increments.
 
-- Cronômetro Pomodoro: Um temporizador para sessões de estudo focadas.
-- Controles de Tempo: Botões para pausar e retomar o cronômetro.
-- Ajuste de Minutos: Possibilidade de ajustar os minutos diretamente pelo teclado.
-- Incremento e Decremento de Tempo: Botões para aumentar ou diminuir o tempo em incrementos de 5 minutos.
-- Alarme: Um alarme soa quando o tempo estipulado pelo usuário termina.
-- Sons Ambientais: Quatro opções de sons de fundo para tornar o ambiente de estudo mais agradável. Os sons disponíveis são:
-  - Floresta
-  - Chuva
-  - Cafeteria
-  - Lareira
+Alarm: An alarm sounds when the user-set time ends.
 
-- [Acesse o projeto finalizado, online](https://projeto-focustimer2-0.onrender.com)
+Ambient Sounds: Four background sound options to make the study environment more pleasant. The available sounds are:
+
+Forest
+Rain
+Coffee Shop
+Fireplace
+Access the finished project online
+
