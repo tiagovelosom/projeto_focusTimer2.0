@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="Focus timer 2.0" src="./github/preview.jpg.png" width="100%">
 </p>
-🚀 Technologies
+## 🚀 Technologies
 This project was developed with the following technologies:
 
 - HTML and CSS
